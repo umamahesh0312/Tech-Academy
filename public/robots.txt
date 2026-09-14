@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-project-azure-one-43.vercel.app/sitemap.xml
